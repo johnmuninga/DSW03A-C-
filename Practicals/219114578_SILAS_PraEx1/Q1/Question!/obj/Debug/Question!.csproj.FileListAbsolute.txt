@@ -1,0 +1,8 @@
+C:\Users\emman\Documents\Third Year\Dsw3A\Practicals\219114578_SILAS_PraEx1\Q1\Question!\bin\Debug\Question!.exe.config
+C:\Users\emman\Documents\Third Year\Dsw3A\Practicals\219114578_SILAS_PraEx1\Q1\Question!\bin\Debug\Question!.exe
+C:\Users\emman\Documents\Third Year\Dsw3A\Practicals\219114578_SILAS_PraEx1\Q1\Question!\bin\Debug\Question!.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Practicals\219114578_SILAS_PraEx1\Q1\Question!\obj\Debug\Question!.csproj.AssemblyReference.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Practicals\219114578_SILAS_PraEx1\Q1\Question!\obj\Debug\Question!.csproj.SuggestedBindingRedirects.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Practicals\219114578_SILAS_PraEx1\Q1\Question!\obj\Debug\Question!.csproj.CoreCompileInputs.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Practicals\219114578_SILAS_PraEx1\Q1\Question!\obj\Debug\Question!.exe
+C:\Users\emman\Documents\Third Year\Dsw3A\Practicals\219114578_SILAS_PraEx1\Q1\Question!\obj\Debug\Question!.pdb

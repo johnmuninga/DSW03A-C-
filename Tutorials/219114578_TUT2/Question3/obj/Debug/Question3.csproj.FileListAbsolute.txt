@@ -1,0 +1,8 @@
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT2\Question3\bin\Debug\Question3.exe.config
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT2\Question3\bin\Debug\Question3.exe
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT2\Question3\bin\Debug\Question3.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT2\Question3\obj\Debug\Question3.csproj.AssemblyReference.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT2\Question3\obj\Debug\Question3.csproj.SuggestedBindingRedirects.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT2\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT2\Question3\obj\Debug\Question3.exe
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT2\Question3\obj\Debug\Question3.pdb

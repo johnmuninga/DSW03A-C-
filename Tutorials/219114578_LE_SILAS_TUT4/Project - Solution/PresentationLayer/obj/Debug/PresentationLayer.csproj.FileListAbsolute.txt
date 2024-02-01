@@ -1,0 +1,154 @@
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\Business.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\Data.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\MySql.Data.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\ZstdNet.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\System.Memory.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\System.Buffers.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\Business.pdb
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\Data.pdb
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\bin\Debug\MySql.Data.xml
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer.exe.config
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\Business.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\Data.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\MySql.Data.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\ZstdNet.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\System.Memory.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\System.Buffers.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\Business.pdb
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\Data.pdb
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\bin\Debug\MySql.Data.xml
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer.exe.config
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\220062938 Matloa\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\bin\Debug\Business.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\bin\Debug\Data.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\bin\Debug\MySql.Data.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\bin\Debug\Business.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\bin\Debug\Data.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\bin\Debug\Business.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\bin\Debug\Data.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\bin\Debug\MySql.Data.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\bin\Debug\Business.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\bin\Debug\Data.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\Business.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\Data.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\MySql.Data.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\Business.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\Data.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\Business.dll
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\Data.dll
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\MySql.Data.dll
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\Business.pdb
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\bin\Debug\Data.pdb
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\PresentationLayer\obj\Debug\PresentationLayer.pdb

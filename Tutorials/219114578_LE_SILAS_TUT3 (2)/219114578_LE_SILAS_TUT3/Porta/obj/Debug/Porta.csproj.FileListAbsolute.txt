@@ -1,0 +1,32 @@
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\bin\Debug\Porta.exe.config
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\bin\Debug\Porta.exe
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\bin\Debug\Porta.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\bin\Debug\BusinessLayer.dll
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\bin\Debug\DataLayer.dll
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\bin\Debug\BusinessLayer.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\bin\Debug\DataLayer.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.csproj.AssemblyReference.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.csproj.SuggestedBindingRedirects.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.Form.resources
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.Properties.Resources.resources
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.csproj.GenerateResource.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.csproj.CoreCompileInputs.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.csproj.CopyComplete
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.exe
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\bin\Debug\Porta.exe.config
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\bin\Debug\Porta.exe
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\bin\Debug\Porta.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\bin\Debug\BusinessLayer.dll
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\bin\Debug\DataLayer.dll
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\bin\Debug\BusinessLayer.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\bin\Debug\DataLayer.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.csproj.AssemblyReference.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.csproj.SuggestedBindingRedirects.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.Form.resources
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.Properties.Resources.resources
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.csproj.GenerateResource.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.csproj.CoreCompileInputs.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.csproj.CopyComplete
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.exe
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3 (2)\219114578_LE_SILAS_TUT3\Porta\obj\Debug\Porta.pdb

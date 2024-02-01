@@ -1,0 +1,9 @@
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_LE_SILAS_TUT3\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,21 @@
+C:\Users\General\source\repos\UJ_Stuff_Portal\UJ_Stuff_Portal\bin\Debug\UJ_Stuff_Portal.exe.config
+C:\Users\General\source\repos\UJ_Stuff_Portal\UJ_Stuff_Portal\bin\Debug\UJ_Stuff_Portal.exe
+C:\Users\General\source\repos\UJ_Stuff_Portal\UJ_Stuff_Portal\bin\Debug\UJ_Stuff_Portal.pdb
+C:\Users\General\source\repos\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.csprojAssemblyReference.cache
+C:\Users\General\source\repos\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.Form1.resources
+C:\Users\General\source\repos\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.Properties.Resources.resources
+C:\Users\General\source\repos\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.csproj.GenerateResource.cache
+C:\Users\General\source\repos\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.csproj.CoreCompileInputs.cache
+C:\Users\General\source\repos\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.exe
+C:\Users\General\source\repos\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\ClassPractical\UJ_Stuff_PortalFIrstSession\UJ_Stuff_Portal\UJ_Stuff_Portal\bin\Debug\UJ_Stuff_Portal.exe.config
+C:\Users\emman\Documents\Third Year\Dsw3A\ClassPractical\UJ_Stuff_PortalFIrstSession\UJ_Stuff_Portal\UJ_Stuff_Portal\bin\Debug\UJ_Stuff_Portal.exe
+C:\Users\emman\Documents\Third Year\Dsw3A\ClassPractical\UJ_Stuff_PortalFIrstSession\UJ_Stuff_Portal\UJ_Stuff_Portal\bin\Debug\UJ_Stuff_Portal.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\ClassPractical\UJ_Stuff_PortalFIrstSession\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.csproj.AssemblyReference.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\ClassPractical\UJ_Stuff_PortalFIrstSession\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.csproj.SuggestedBindingRedirects.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\ClassPractical\UJ_Stuff_PortalFIrstSession\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.Form1.resources
+C:\Users\emman\Documents\Third Year\Dsw3A\ClassPractical\UJ_Stuff_PortalFIrstSession\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.Properties.Resources.resources
+C:\Users\emman\Documents\Third Year\Dsw3A\ClassPractical\UJ_Stuff_PortalFIrstSession\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.csproj.GenerateResource.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\ClassPractical\UJ_Stuff_PortalFIrstSession\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.csproj.CoreCompileInputs.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\ClassPractical\UJ_Stuff_PortalFIrstSession\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.exe
+C:\Users\emman\Documents\Third Year\Dsw3A\ClassPractical\UJ_Stuff_PortalFIrstSession\UJ_Stuff_Portal\UJ_Stuff_Portal\obj\Debug\UJ_Stuff_Portal.pdb

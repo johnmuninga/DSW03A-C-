@@ -1,0 +1,39 @@
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\Data.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\Data.pdb
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\MySql.Data.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\Google.Protobuf.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\ZstdNet.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\System.Memory.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\System.Buffers.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\bin\Debug\MySql.Data.xml
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\obj\Debug\Data.dll
+C:\Users\kibsd\codes\codes\dsw\3rd Year\Unit4\lab4\Data\obj\Debug\Data.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\Data\bin\Debug\Data.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\Data\bin\Debug\Data.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\Data\obj\Debug\Data.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\220062938 Matloa (2)\LAB4\Data\obj\Debug\Data.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\Data\bin\Debug\Data.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\Data\bin\Debug\Data.pdb
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\Data\obj\Debug\Data.dll
+C:\Users\lwamb\Desktop\LAB EXERCISES\2. LABS\LAB EXERCISE 4\LAB4\Data\obj\Debug\Data.pdb
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\Data\bin\Debug\Data.dll
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\Data\bin\Debug\Data.pdb
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\Data\obj\Debug\Data.dll
+C:\Users\emman\Downloads\BIT 3 -  MODULE A -2022\DEVELOPMENT SOFWARE 3A - (221DSW3)\LAB EXERCISES\2. LABS\LAB EXERCISE 4\NA Lukeshi-217093334-Lab4\Project - Solution\Data\obj\Debug\Data.pdb

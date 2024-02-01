@@ -1,0 +1,16 @@
+C:\Users\Hp\Downloads\Polymorphism-MultiDimensionalArray\Polymorphism\Question2\bin\Debug\Question2.exe.config
+C:\Users\Hp\Downloads\Polymorphism-MultiDimensionalArray\Polymorphism\Question2\bin\Debug\Question2.exe
+C:\Users\Hp\Downloads\Polymorphism-MultiDimensionalArray\Polymorphism\Question2\bin\Debug\Question2.pdb
+C:\Users\Hp\Downloads\Polymorphism-MultiDimensionalArray\Polymorphism\Question2\obj\Debug\Question2.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\Polymorphism-MultiDimensionalArray\Polymorphism\Question2\obj\Debug\Question2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Downloads\Polymorphism-MultiDimensionalArray\Polymorphism\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\Polymorphism-MultiDimensionalArray\Polymorphism\Question2\obj\Debug\Question2.exe
+C:\Users\Hp\Downloads\Polymorphism-MultiDimensionalArray\Polymorphism\Question2\obj\Debug\Question2.pdb
+C:\Users\emman\Downloads\Q2\Question2\obj\Debug\Question2.csproj.AssemblyReference.cache
+C:\Users\emman\Downloads\Q2\Question2\obj\Debug\Question2.csproj.SuggestedBindingRedirects.cache
+C:\Users\emman\Downloads\Q2\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\emman\Downloads\Q2\Question2\obj\Debug\Question2.exe
+C:\Users\emman\Downloads\Q2\Question2\obj\Debug\Question2.pdb
+C:\Users\emman\Downloads\Q2\Question2\bin\Debug\Question2.exe.config
+C:\Users\emman\Downloads\Q2\Question2\bin\Debug\Question2.exe
+C:\Users\emman\Downloads\Q2\Question2\bin\Debug\Question2.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "PresentationLayer\PresentationLayer.csproj", "{1ACEA163-393E-44D1-84DB-1EFF68CCBFFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{40D9C60B-6F6D-41EB-ACD9-DE0F26DFFA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{CF7F0247-D748-4CCF-8C07-B6E037370CB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ACEA163-393E-44D1-84DB-1EFF68CCBFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACEA163-393E-44D1-84DB-1EFF68CCBFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACEA163-393E-44D1-84DB-1EFF68CCBFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACEA163-393E-44D1-84DB-1EFF68CCBFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D9C60B-6F6D-41EB-ACD9-DE0F26DFFA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D9C60B-6F6D-41EB-ACD9-DE0F26DFFA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D9C60B-6F6D-41EB-ACD9-DE0F26DFFA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D9C60B-6F6D-41EB-ACD9-DE0F26DFFA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF7F0247-D748-4CCF-8C07-B6E037370CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7F0247-D748-4CCF-8C07-B6E037370CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7F0247-D748-4CCF-8C07-B6E037370CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7F0247-D748-4CCF-8C07-B6E037370CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED53C708-0315-43CD-821C-6BC83867A289}
+	EndGlobalSection
+EndGlobal
